@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\RMA-Luka Florschutz\HotelSilverFinal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\RMA-Luka Florschutz\HotelSilverFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d09517d13727ffbb7c1b26e2d27149e8fde5e906\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\RMA-Luka Florschutz\HotelSilverFinal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dee2ebe11f28fca662acc010e1e94e0edf76e83">
+        <dex dex="C:\RMA-Luka Florschutz\HotelSilverFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_085da471d93f0a5d259423d5e1cb0105811a335a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GZA\.android\build-cache\011668a3938048377b7249384fe35fef75639975\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\RMA-Luka Florschutz\HotelSilverFinal\app\build\intermediates\pre-dexed\debug\classes_4b123244d8ca4fb4b26351fd5e5db8bbd152dd32.jar" />
+    </item>
+
+</items>
